@@ -1,0 +1,13 @@
+.sidenav-full {
+    width: 200px;
+}
+
+.logo {
+    color: #fff;
+}
+
+.app-content {
+    overflow-y: auto;
+    display: flex;
+    height: 100%;
+}
